@@ -8,9 +8,9 @@
 #define LED_TYPE    WS2812
 #define COLOR_ORDER GRB
 CRGB leds1[NUM_LEDS1];
-char auth[] = "0McpJfXT5mpH4TF9yGkmLpD5LQZhMhYz";
-char ssid[] = "Arafa";
-char pass[] = "ahlyegypt";
+char auth[] = "Type your token here";
+char ssid[] = "type your SSID";
+char pass[] = "type your pass";
 #define PIN1 D2
 int data=255;
 int mod=0;
